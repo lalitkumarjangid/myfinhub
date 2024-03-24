@@ -1,7 +1,5 @@
 <h1 align="center"> Flowpay</h1>
-<p align="center">
-  <img src="./frontend/public//assets/project-flowpay.jpg" alt="Flowpay">
-</p>
+
 
 ####  A Paytm-inspired payment platform facilitating user sign-up, seamless peer-to-peer transactions, and efficient user search functionalities for easy money transfers.
 
@@ -19,7 +17,7 @@
 
 1. **Clone the repository**
 ``` bash
-git clone https://github.com/adityaj07/FlowPay.git
+https://github.com/lalitkumarjangid/myfinhub.git
 ```
 
 2. **Navigate to the project directory and install dependencies for the backend**
