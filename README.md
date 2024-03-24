@@ -1,7 +1,7 @@
-<h1 align="center"> Flowpay</h1>
+<h1 align="center"> Finhub</h1>
 
 
-####  A Paytm-inspired payment platform facilitating user sign-up, seamless peer-to-peer transactions, and efficient user search functionalities for easy money transfers.
+####  A Payments App-inspired payment platform facilitating user sign-up, seamless peer-to-peer transactions, and efficient user search functionalities for easy money transfers.
 
 ## Technology used: 
 - React
