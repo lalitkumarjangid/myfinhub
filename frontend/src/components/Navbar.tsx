@@ -50,6 +50,9 @@ const Navbar: FC<NavbarProps> = ({}) => {
             <img src="/assets/logo.png" alt="logo" className="w-[88px] -ml-6" />
             <span className="mr-4 -ml-4 font-bold text-[clamp(1.95rem, 1.56vw + 1.56rem, 2.81rem)]">
            Finhub
+              <br />
+           <h6 className="mr-2 -ml-2  text-sm text-gray-500">Developed by Lalit</h6>
+            </span>
             </span>
           </Link>
 
