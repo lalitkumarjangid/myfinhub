@@ -208,16 +208,19 @@ const Signup = () => {
             </div>
           </motion.div>
         </div>
-        <div className="bg-black text-white dark:bg-slate-200 lg:flex justify-center items-center rounded-l-3xl h-screen hidden dark:text-background flex-col">
+       <div className="bg-black text-white dark:bg-slate-1200 lg:flex justify-center items-center rounded-l-3xl h-screen hidden dark:text-background flex-col">
           <img
             src="/assets/logo.png"
             alt="Finhub logo"
             className="w-[31.25rem] h-[31.25rem]"
           />
-          <p className="text-5xl font-black ">Finhub</p>
-          <small className="text-[clamp(1.95rem, 1.56vw + 1.56rem, 2.81rem)]">
+          <p className="text-white text-5xl font-black ">Finhub</p>
+         
+          <small className="text-white text-[clamp(1.95rem, 1.56vw + 1.56rem, 2.81rem)]">
             Since 2024
           </small>
+          <br />
+           <h6 className="mr-2 -ml-2  text-sm text-gray-500  font-semibold ">Developed by Lalit</h6>
         </div>
       </div>
     </div>
