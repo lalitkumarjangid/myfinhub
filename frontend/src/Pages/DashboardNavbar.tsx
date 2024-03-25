@@ -72,7 +72,7 @@ const DashboardNavbar: FC<DashboardNavbarProps> = ({}) => {
               Finhub
               <br />
            <h6 className="mr-2 -ml-2  text-sm text-gray-500">Developed by Lalit</h6>
-            </span>
+          
             </span>
           </Link>
           <Separator className="-mt-6" />
