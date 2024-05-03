@@ -22,7 +22,7 @@ https://github.com/lalitkumarjangid/myfinhub.git
 
 2. **Navigate to the project directory and install dependencies for the backend**
 ``` bash
-cd fronted
+
 cd backend
 pnpm install
 ```
