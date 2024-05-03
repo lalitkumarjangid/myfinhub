@@ -22,7 +22,7 @@ https://github.com/lalitkumarjangid/myfinhub.git
 
 2. **Navigate to the project directory and install dependencies for the backend**
 ``` bash
-cd FlowPay
+cd fronted
 cd backend
 pnpm install
 ```
@@ -60,6 +60,10 @@ VITE_BACKEND_URL=http://localhost:3000/api/v1
 7. **Start the frontend development server**
 ```bash
 pnpm run dev
+```
+8. ### Follow mw on Github
+ ```bash
+https://github.com/lalitkumarjangid
 ```
 
 ### *Consider giving the repo a star if you like it ⭐*# myfinhub
