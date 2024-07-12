@@ -61,7 +61,7 @@ VITE_BACKEND_URL=http://localhost:3000/api/v1
 ```bash
 pnpm run dev
 ```
-8. ### Follow mw on Github
+8. ### Follow me on Github
  ```bash
 https://github.com/lalitkumarjangid
 ```
